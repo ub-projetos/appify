@@ -1,16 +1,17 @@
-# appify
+# Appify
 
-A new Flutter project.
+**Appify** é um aplicativo desenvolvido em Flutter para demonstrar diferentes tipos de navegação, incluindo:
 
-## Getting Started
+- **Navegação com Drawer (Menu Lateral)**
+- **Navegação com BottomNavigationBar**
+- **Navegação com Rotas Nomeadas**
+- **Navegação Não Nomeada (Navegação Direta)**
 
-This project is a starting point for a Flutter application.
+O projeto serve como material didático para ensinar boas práticas de navegação em Flutter, utilizando exemplos práticos e intuitivos. Este aplicativo foi criado pelo professor **Marcos David Souza Ramos** como parte de uma série de recursos educacionais voltados para desenvolvedores iniciantes e intermediários que desejam melhorar suas habilidades em Flutter.
 
-A few resources to get you started if this is your first Flutter project:
+## Funcionalidades
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Exemplos de diferentes estilos de navegação.
+- Interface amigável com botões e menus personalizáveis.
+- Suporte a múltiplas páginas e transições suaves.
+- Código bem estruturado seguindo o padrão MVC (Model-View-Controller).
